@@ -1,0 +1,24 @@
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\bin\Debug\Guna.UI.dll
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\bin\Debug\Guna.UI2.dll
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.ColdDrinks.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Food.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.FoodControl.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.CheckOutfrm.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.frmLogin.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.frmMain.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.HomeControl.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.HotDrinks.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Proj1.csproj.GenerateResource.cache
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Proj1.csproj.CopyComplete
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login Form.pdb
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.DessertsControl.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Login_Form.FeedbackControl.resources
+C:\Users\Abdelrahman\source\repos\Login Form\Login Form\obj\Debug\Proj1.csproj.AssemblyReference.cache
